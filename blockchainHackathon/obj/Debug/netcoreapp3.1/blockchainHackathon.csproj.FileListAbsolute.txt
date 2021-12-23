@@ -1,0 +1,14 @@
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\bin\Debug\netcoreapp3.1\blockchainHackathon.exe
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\bin\Debug\netcoreapp3.1\blockchainHackathon.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\bin\Debug\netcoreapp3.1\blockchainHackathon.runtimeconfig.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\bin\Debug\netcoreapp3.1\blockchainHackathon.runtimeconfig.dev.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\bin\Debug\netcoreapp3.1\blockchainHackathon.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\bin\Debug\netcoreapp3.1\blockchainHackathon.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\obj\Debug\netcoreapp3.1\blockchainHackathon.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\obj\Debug\netcoreapp3.1\blockchainHackathon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\obj\Debug\netcoreapp3.1\blockchainHackathon.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\obj\Debug\netcoreapp3.1\blockchainHackathon.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\obj\Debug\netcoreapp3.1\blockchainHackathon.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\obj\Debug\netcoreapp3.1\blockchainHackathon.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\obj\Debug\netcoreapp3.1\blockchainHackathon.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\blockchainHackathon\obj\Debug\netcoreapp3.1\blockchainHackathon.genruntimeconfig.cache
