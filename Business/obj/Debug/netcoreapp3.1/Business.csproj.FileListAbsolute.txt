@@ -1,0 +1,15 @@
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\blockchainHackathon\Business\obj\Debug\netcoreapp3.1\Business.pdb
