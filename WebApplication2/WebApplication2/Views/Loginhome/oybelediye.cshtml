@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "oybelediye";
+    Layout = "~/Views/Shared/_Layout3.cshtml";
+}
+<div class="container mt-2">
+    <div class="row">
+        <div class="col-12">
+            <div class="jumbotron">
+                <h1 class="text-center">Lorem ipsum dolor sit amet, consectetur.</h1>
+                <div class="row justify-content-center">
+                    <div class="col-auto">
+                        <p><a class="btn btn-success btn-lg style" href="/loginhome/oyverildi" role="button">CD Partisi</a>  ... Şehri Belediye Başkan Adayı : Mustafa Şahkaldıran</p>
+                    </div>
+                    <div class="col-auto">
+                        <p><a class="btn btn-primary btn-lg" href="/loginhome/oyverildi" role="button">AB Partisi</a> ... Şehri Belediye Başkan Adayı : Ahmet Şahkaldıran</p>
+                    </div>
+                </div>
+                <!-- Database -->
+                <p><img src="~/resim/fake-politician-wearing-smiling-characters-260nw-1883237905.jpg" alt="Mustafa Şahkaldıran" width="335" height="169" class="img-fluid" title="Mustafa Şahkaldıran"><img src="~/resim/gri-arka-plan.jpg" alt="" width="302" height="175" class="img-fluid"><img src="~/resim/6164304.png" alt="" width="187" height="143" class="img-fluid"></p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="text-center col-md-6 col-12 col-xl-12">
+            <div class="container" style="border-block:groove;">
+                <h3>Nasil oy kullanicam ?</h3>
+                <p style="font-size:20px;">Nasil oy kullanacağinizi bilmiyorsaniz aşağidaki yardim tuşuna basarak gerekli bilgiyi öğrenebilirsiniz.</p>
+                <a class="btn btn-danger btn-lg" href="https://www.youtube.com/watch?v=M5Hd4WirgkY" target="_blank" role="button">Yardım</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container">
+    <div class="col-md-5 col-lg-5"style="border-block: double; font-size: 20px; border-block-color: black; border-block-end: groove;">
+        <!-- Timer -->
+        <p id="demo" ></p>
+        <p>Kullanilmis oy sayisi : 1.234.234 (%60)</p>
+
+        <script>
+
+            var countDownDate = new Date("Jan 5, 2022 15:37:25").getTime();
+
+            var x = setInterval(function () {
+
+                var now = new Date().getTime();
+
+                var distance = countDownDate - now;
+
+                var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                document.getElementById("demo").innerHTML = days + "g " + hours + "s "
+                    + minutes + "d " + seconds + "s ";
+
+                if (distance < 0) {
+                    clearInterval(x);
+                    document.getElementById("demo").innerHTML = "EXPIRED";
+                }
+            }, 1000);
+        </script>
+    </div>
+</div>
+<!-- Container -->
+<div class="container">
+    <div class="row"></div>
+</div>
+<div class="container mt-4">
+    <div class="row"></div>
+</div>
+<div class="container">
+    <div class="row"></div>
+</div>

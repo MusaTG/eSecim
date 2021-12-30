@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout3.cshtml";
+}
+
+<link href="~/booststrap/css/login.css" rel="stylesheet" id="bootstrap-css">
+
+
+<body style="background-image:url(../../resim/gri-arka-plan.jpg)">
+    <div class="sidenav" style="background-color:deepskyblue;">
+        <div class="login-main-text">
+            <h2>e-seçim<br> Giriş ekrani</h2>
+            <p>Lütfen giriş yapınız.</p>
+        </div>
+    </div>
+    <div class="main">
+        <div class="col-md-6 col-sm-12">
+            <div class="login-form">
+                <form>
+                    <div class="form-group">
+                        <!-- Database -->
+                        <label>T.C Kimlik Numarası</label>
+                        <input type="number" class="form-control" placeholder="T.C kimlik numarasi">
+                    </div>
+                    <div class="form-group">
+                        <!-- Database -->
+                        <label>e-devlet şifresi</label>
+                        <input type="password" class="form-control" placeholder="Şifre">
+                    </div>
+                    <button type="submit" class="btn btn-black"><a href="../Loginhome">Giriş</a></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>

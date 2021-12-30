@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\MTG\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\MTG\\.nuget\\packages"
-    ]
-  }
-}

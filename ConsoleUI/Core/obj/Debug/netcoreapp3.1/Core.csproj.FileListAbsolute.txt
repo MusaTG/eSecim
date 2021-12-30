@@ -1,0 +1,50 @@
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\okul\ileri web\eSecim\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\okul\ileri web\eSecim\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\okul\ileri web\eSecim\ConsoleUI\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\okul\ileri web\eSecim\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\okul\ileri web\eSecim\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\okul\ileri web\eSecim\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\okul\ileri web\eSecim\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\okul\ileri web\eSecim\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\okul\ileri web\eSecim\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\okul\ileri web\eSecim\ConsoleUI\Core\obj\Debug\netcoreapp3.1\Core.pdb

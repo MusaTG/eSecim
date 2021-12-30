@@ -1,0 +1,14 @@
+NODE server ile python scripti:
+kullanım için;
+	http://127.0.0.1:3000/{'Sınıf Adı'}
+
+sifrelemeYontemleri sınıfı için örnek kullanım: 
+->localhost:port/sifrelemeYontemleri?method='method Adı'&text='şifrelenecek metin'••&key="Hash'e göre Key"
+	http://127.0.0.1:3000/sifrelemeYontemleri?method=aesSifreleme&text=sifrelenecek%20metin&key=156
+
+dilKontrol sınıfı için örnek kullanım:
+->localhost:port/dilKontrol?method='method Adı'&text='Kontrol edilecek metin'
+	http://127.0.0.1:3000/dilKontrol?method=sesliHarfBul&text=Turkiyenin%20baskenti%20ankaradir
+
+Help sınıfı için kullanım:
+	http://127.0.0.1:3000/Help

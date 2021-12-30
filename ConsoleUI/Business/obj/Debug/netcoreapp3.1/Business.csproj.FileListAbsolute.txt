@@ -1,0 +1,100 @@
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje2\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje3\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje4\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\Dersler\Servis Odaklı Mimari\DB_SOA_IWP_icinproje\proje6\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.pdb
+D:\okul\ileri web\eSecim\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\okul\ileri web\eSecim\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\okul\ileri web\eSecim\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\okul\ileri web\eSecim\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.dll
+D:\okul\ileri web\eSecim\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\okul\ileri web\eSecim\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\okul\ileri web\eSecim\ConsoleUI\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\okul\ileri web\eSecim\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\okul\ileri web\eSecim\ConsoleUI\Business\bin\Debug\netcoreapp3.1\Core.pdb
+D:\okul\ileri web\eSecim\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\okul\ileri web\eSecim\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\okul\ileri web\eSecim\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\okul\ileri web\eSecim\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\okul\ileri web\eSecim\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\okul\ileri web\eSecim\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\okul\ileri web\eSecim\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\okul\ileri web\eSecim\ConsoleUI\Business\obj\Debug\netcoreapp3.1\Business.pdb

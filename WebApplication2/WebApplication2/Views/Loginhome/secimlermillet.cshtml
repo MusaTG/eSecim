@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "secimlermillet";
+    Layout = "/Views/Shared/_Layout2.cshtml";
+}
+<body style="background-image:url(../../resim/gri-arka-plan.jpg)">
+    <h1></h1>
+    <li style="color:darkred;font-size:14px;"></li>
+    <div class="section">
+        <div class="container">
+            <div class="row">
+
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <table class="table table-dark table-hover" style="font-size:14px;background-color:ghostwhite;">
+        <thead style="border:groove;">
+
+            <tr style="color:black;">
+                <th scope="col">Şehir</th>
+                <th scope="col">Tuş</th>
+                <th scope="col">Ne seçimi</th>
+                <th scope="col">Adaylar</th>
+            </tr>
+        </thead>
+        <tbody style="border:groove;">
+            @{
+                <!-- Backend list -->
+                var liste2 = new List<string>() { "Ankara", "Adana", "Adıyaman", "Afyonkarahisar", "Ağrı", "Kahramanmaraş", "Bursa", "İzmir", "istanbul", "Van", "Kars", "Kastamonu", "Kocaeli", "Çanakkale", "Konya", "Kütahya", "Kırklareli", "Uşak", "Gaziantep", "Bayburt" };
+                foreach (var li in liste2)
+                {
+                    <tr style="color:black;">
+                        <th scope="row">@li|</th>
+                        <td>
+                            <button type="button" style=";color:black;border: solid; background-color: #1ABC9C;" class="active">
+
+                                <a href="/Loginhome/oymillet" style="color:black">Oyver</a>
+                            </button>
+                        </td>
+                        <td>|Milletvekili</td>
+                        <td></td>
+                    </tr>
+                };
+
+            }
+            </tbodystyle="border:groove;">
+    </table>
+</body>
+
